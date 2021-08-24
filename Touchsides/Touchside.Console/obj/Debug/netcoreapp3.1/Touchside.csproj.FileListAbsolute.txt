@@ -1,0 +1,28 @@
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchside.Console\bin\Debug\netcoreapp3.1\Touchside.exe
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchside.Console\bin\Debug\netcoreapp3.1\2600-0.txt
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchside.Console\bin\Debug\netcoreapp3.1\Touchside.deps.json
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchside.Console\bin\Debug\netcoreapp3.1\Touchside.runtimeconfig.json
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchside.Console\bin\Debug\netcoreapp3.1\Touchside.runtimeconfig.dev.json
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchside.Console\bin\Debug\netcoreapp3.1\Touchside.dll
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchside.Console\bin\Debug\netcoreapp3.1\Touchside.pdb
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchside.Console\obj\Debug\netcoreapp3.1\Touchside.csprojAssemblyReference.cache
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchside.Console\obj\Debug\netcoreapp3.1\Touchside.AssemblyInfoInputs.cache
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchside.Console\obj\Debug\netcoreapp3.1\Touchside.AssemblyInfo.cs
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchside.Console\obj\Debug\netcoreapp3.1\Touchside.csproj.CoreCompileInputs.cache
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchside.Console\obj\Debug\netcoreapp3.1\Touchside.dll
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchside.Console\obj\Debug\netcoreapp3.1\Touchside.pdb
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchside.Console\obj\Debug\netcoreapp3.1\Touchside.genruntimeconfig.cache
+C:\Users\Linda Motaung 1\Downloads\Touchsides\Touchsides\Touchside.Console\bin\Debug\netcoreapp3.1\Touchside.exe
+C:\Users\Linda Motaung 1\Downloads\Touchsides\Touchsides\Touchside.Console\bin\Debug\netcoreapp3.1\2600-0.txt
+C:\Users\Linda Motaung 1\Downloads\Touchsides\Touchsides\Touchside.Console\bin\Debug\netcoreapp3.1\Touchside.deps.json
+C:\Users\Linda Motaung 1\Downloads\Touchsides\Touchsides\Touchside.Console\bin\Debug\netcoreapp3.1\Touchside.runtimeconfig.json
+C:\Users\Linda Motaung 1\Downloads\Touchsides\Touchsides\Touchside.Console\bin\Debug\netcoreapp3.1\Touchside.runtimeconfig.dev.json
+C:\Users\Linda Motaung 1\Downloads\Touchsides\Touchsides\Touchside.Console\bin\Debug\netcoreapp3.1\Touchside.dll
+C:\Users\Linda Motaung 1\Downloads\Touchsides\Touchsides\Touchside.Console\bin\Debug\netcoreapp3.1\Touchside.pdb
+C:\Users\Linda Motaung 1\Downloads\Touchsides\Touchsides\Touchside.Console\obj\Debug\netcoreapp3.1\Touchside.csprojAssemblyReference.cache
+C:\Users\Linda Motaung 1\Downloads\Touchsides\Touchsides\Touchside.Console\obj\Debug\netcoreapp3.1\Touchside.AssemblyInfoInputs.cache
+C:\Users\Linda Motaung 1\Downloads\Touchsides\Touchsides\Touchside.Console\obj\Debug\netcoreapp3.1\Touchside.AssemblyInfo.cs
+C:\Users\Linda Motaung 1\Downloads\Touchsides\Touchsides\Touchside.Console\obj\Debug\netcoreapp3.1\Touchside.csproj.CoreCompileInputs.cache
+C:\Users\Linda Motaung 1\Downloads\Touchsides\Touchsides\Touchside.Console\obj\Debug\netcoreapp3.1\Touchside.dll
+C:\Users\Linda Motaung 1\Downloads\Touchsides\Touchsides\Touchside.Console\obj\Debug\netcoreapp3.1\Touchside.pdb
+C:\Users\Linda Motaung 1\Downloads\Touchsides\Touchsides\Touchside.Console\obj\Debug\netcoreapp3.1\Touchside.genruntimeconfig.cache

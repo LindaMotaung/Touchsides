@@ -1,0 +1,10 @@
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchsides\bin\Debug\Touchsides.exe.config
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchsides\bin\Debug\Touchsides.exe
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchsides\bin\Debug\Touchsides.pdb
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchsides\obj\Debug\Touchsides.csprojAssemblyReference.cache
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchsides\obj\Debug\Touchsides.Properties.Resources.resources
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchsides\obj\Debug\Touchsides.frmUI.resources
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchsides\obj\Debug\Touchsides.csproj.GenerateResource.cache
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchsides\obj\Debug\Touchsides.csproj.CoreCompileInputs.cache
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchsides\obj\Debug\Touchsides.exe
+C:\Users\LindaMotaung\source\repos\Touchsides\Touchsides\obj\Debug\Touchsides.pdb
